@@ -1,15 +1,14 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Zabbix part1 `" - `Sorokin VV`
 
 
 ### Задание 1
-
-`Приведите ответ в свободной форме........`
 
 1. `sudo apt install postgresql - установка Postgresql`
 2. `dpkg -i zabbix-release_6.4-1+debian11_all.deb
     apt update
     apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts - установка забикс сервера`
-3. `Заполните здесь этапы выполнения, если требуется ....`
+3. `systemctl restart zabbix-server apache2
+    systemctl enable zabbix-server apache2 - перезапуск и автозагрузка сервера`
 
 
 Поле для вставки кода...
