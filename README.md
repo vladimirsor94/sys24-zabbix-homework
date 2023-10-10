@@ -10,16 +10,7 @@
 3. `systemctl restart zabbix-server apache2
     systemctl enable zabbix-server apache2 - перезапуск и автозагрузка сервера`
 
-
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![login](https://github.com/{username}/vladimirsor94/sys24-zabbix-homework/commit/c4aa6d5ef0696a8b404b8fb32d9c293313c6db34
 
 
 ---
