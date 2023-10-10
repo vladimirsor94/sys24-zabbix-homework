@@ -27,4 +27,6 @@ sed -i 's/Server=127.0.0.1/Server=192.168.1.32/g' /etc/zabbix/zabbix_agent.conf
 sed -i 's/Server=127.0.0.1/Server=192.168.1.33/g' /etc/zabbix/zabbix_agent.con`
 
 ![2hosts](https://github.com/vladimirsor94/sys24-zabbix-homework/blob/vladimirsor94-patch-1/2%20hosts.png
+
+
 ![latest](https://github.com//sys24-zabbix-homework/blob/vladimirsor94-patch-1/latest.png
